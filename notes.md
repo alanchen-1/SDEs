@@ -29,5 +29,7 @@ so it's a degenerate process - all the elements are the same for all time (until
 try using t-SNE projection to plot these in 2d? see what that means idk lol
 or other projection methods
 
+higher step sizes result in longer processes
+
 # Filtered Matrix Completion
 
