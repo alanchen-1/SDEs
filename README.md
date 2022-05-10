@@ -1,5 +1,5 @@
 # SDEs[^1]
-Experiments with 4 stochastic differential equations - Ornstein Uhlenbeck,
+Visualizations and experiments of 4 stochastic differential equations - Ornstein Uhlenbeck,
 Feller Diffusion, and two novel SDEs based on a diagonal matrix completion problem.
 
 To try running it yourself, clone the repository and run `main.ipynb`. 
