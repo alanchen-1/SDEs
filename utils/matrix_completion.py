@@ -1,5 +1,4 @@
 import numpy as np
-import scipy as sp
 from .general import get_Pbeta
 
 class MatrixCompletion():
